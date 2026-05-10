@@ -11,7 +11,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 #EXTINF:-1,Biznet Kids HD
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
-#EXTINF:-1 tvg-id="axnhd" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/AXN_logo_%282015%29.svg", AXN HD
+#EXTINF:-1 tvg-id="axnhd" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", AXN HD
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #EXTINF:-1,Max Eats
 https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
