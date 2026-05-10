@@ -35,7 +35,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 #EXTINF:-1 tvg-id="cartoonnetwork" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Cartoon_Network_white_letter_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Cartoon Network
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
-#EXTINF:-1,Cartoonito
+#EXTINF:-1 tvg-id="cartoonito" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Cartoonito_2020_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Cartoonito
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
 #EXTINF:-1,CCTV4
 https://cdn10jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
