@@ -33,7 +33,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
 #EXTINF:-1,Animal Planet
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 tvg-id="cartoonnetwork" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Cartoon_Network_white_letter_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Cartoon Network
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 #EXTINF:-1,Cartoonito
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
