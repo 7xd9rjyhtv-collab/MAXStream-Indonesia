@@ -95,5 +95,5 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tv5monde/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTINF:-1 tvg-id="france24" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", France 24 HD
 https://cdn10jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
-#EXTINF:-1,DW TV
+#EXTINF:-1 tvg-id="dwtv" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", DW HD
 https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
