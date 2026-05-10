@@ -43,7 +43,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 #EXTINF:-1,BTV
 https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
-#EXTINF:-1 tvg-id="arirang" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Arirang.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Arirang HD
+#EXTINF:-1 tvg-id="arirang" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png", Arirang HD
 https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
 #EXTINF:-1,Antara
 https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
