@@ -25,9 +25,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
 #EXTINF:-1,Maxstream
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_2009-now_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Nickelodeon
 https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
-#EXTINF:-1,Nick Jr
+#EXTINF:-1 tvg-id="nickjr" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Nickjr-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1,ABC Austraila
 https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
