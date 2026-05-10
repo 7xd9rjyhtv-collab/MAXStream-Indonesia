@@ -69,13 +69,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTINF:-1,Jak TV
 https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
-#EXTINF:-1,Rock Action
+#EXTINF:-1 tvg-id="rockaction" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Rock Action HD
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
-#EXTINF:-1,Rock Entertainment
+#EXTINF:-1 tvg-id="rockentertainment" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Rock Entertainment HD
 https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 #EXTINF:-1 tvg-id="tlchd" group-title="Lifestyle" tvg-logo="https://iconape.com/wp-content/files/fq/104983/png/tlc-logo.png", TLC
 https://cdn08jtedge.indihometv.com/dassdvr/133/tlc/manifest.mpd
-#EXTINF:-1,Thrill
+#EXTINF:-1 tvg-id="thrill" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Thrill_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Thrill HD
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 #EXTINF:-1 tvg-id="warnertv" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Warner TV
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
@@ -93,7 +93,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/tv5monde/manifest.mpd
 #EXTINF:-1,SCTV
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
-#EXTINF:-1,France 24
+#EXTINF:-1 tvg-id="france24" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", France 24 HD
 https://cdn10jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
 #EXTINF:-1,DW TV
 https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
