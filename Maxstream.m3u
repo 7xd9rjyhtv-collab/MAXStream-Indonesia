@@ -63,7 +63,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #EXTINF:-1 tvg-id="hbofamily" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1280px-HBO_Family_Asia_logo.svg.png", HBO Family HD
 https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
-#EXTINF:-1,HGTV
+#EXTINF:-1 tvg-id="hgtv" group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", HGTV
 https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 #EXTINF:-1,INews
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
