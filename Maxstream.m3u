@@ -77,7 +77,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/tlc/manifest.mpd
 #EXTINF:-1,Thrill
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
-#EXTINF:-1,Warner TV
+#EXTINF:-1 tvg-id="warnertv" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Warner TV
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 #EXTINF:-1,TVRI
 https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
