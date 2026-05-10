@@ -43,13 +43,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 #EXTINF:-1,BTV
 https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
-#EXTINF:-1,Arirang
+#EXTINF:-1 tvg-id="arirang" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Arirang.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Arirang HD
 https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
 #EXTINF:-1,Antara
 https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 #EXTINF:-1,CGTN Documentary
 https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
-#EXTINF:-1,Discovery Asia
+#EXTINF:-1 tvg-id="discoveryasia" group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Discovery_Asia_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Discovery Asia HD
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 #EXTINF:-1 tvg-id="discoverychannel" group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Casi_Discovery_HD.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Discovery Channel HD
 https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
