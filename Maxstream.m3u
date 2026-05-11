@@ -37,7 +37,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 #EXTINF:-1 tvg-id="cartoonito" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Cartoonito_2020_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Cartoonito
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
-#EXTINF:-1,CCTV4
+#EXTINF:-1 tvg-id="cctv4" group-title="News" tvg-logo="https://i.imgur.com/tWt4Wou.png", CCTV4 HD
 https://cdn10jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
 #EXTINF:-1,Bali TV
 https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
@@ -49,7 +49,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 #EXTINF:-1,CGTN Documentary
 https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
-#EXTINF:-1 tvg-id="discoveryasia" group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Discovery_Asia_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Discovery Asia HD
+#EXTINF:-1 tvg-id="discoveryasia" group-title="Lifestyle" tvg-logo="https://i.imgur.com/foLICwL.png", Discovery Asia HD
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 #EXTINF:-1 tvg-id="discoverychannel" group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Casi_Discovery_HD.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Discovery Channel HD
 https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
