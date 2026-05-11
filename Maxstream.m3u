@@ -9,7 +9,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 #EXTINF:-1 tvg-id="beinsports5" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_BeinSports_5_MAX.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Bein Sports 5
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
-#EXTINF:-1,Biznet Kids HD
+#EXTINF:-1 tvg-id="biznetkids" group-title="Kids" tvg-logo="https://i.imgur.com/J5QNqJ0.png", Biznet Kids HD
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 #EXTINF:-1 tvg-id="axnhd" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", AXN HD
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
