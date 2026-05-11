@@ -13,15 +13,15 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 #EXTINF:-1 tvg-id="axnhd" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", AXN HD
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
-#EXTINF:-1,Max Eats
+#EXTINF:-1 tvg-id="maxeats" group-title="Food" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_z7t4c568/landscape_carousel_xxhdpi.webp", Max Eats HD
 https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
-#EXTINF:-1,Max Kids
+#EXTINF:-1 tvg-id="maxkids" group-title="Kids" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_ynh2anw4/landscape_carousel_xxhdpi.webp", Max Kids HD
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
-#EXTINF:-1,Max Reels
+#EXTINF:-1 tvg-id="maxreels" group-title="Entertainment" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_psqdb637/landscape_carousel_xxhdpi.webp", Max Reels HD
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
-#EXTINF:-1,Max Sports
+#EXTINF:-1 tvg-id="maxsports" group-title="Sports" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_1u20u1ok/landscape_carousel_xxhdpi.webp", Max Sports HD
 https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
-#EXTINF:-1,Max Streak
+#EXTINF:-1 tvg-id="maxstreak" group-title="Lifestyle" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_720wy4x6/landscape_carousel_xxhdpi.webp", Max Streak HD
 https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
 #EXTINF:-1 tvg-id="maxstream" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/MaxStream_2026.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Maxstream HD
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
@@ -47,7 +47,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
 #EXTINF:-1,Antara
 https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
-#EXTINF:-1,CGTN Documentary
+#EXTINF:-1 tvg-id="cgtndocumentary" group-title="Lifestyle" tvg-logo="https://i.imgur.com/JHv0WxM.png", CGTN Documentary HD
 https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 #EXTINF:-1 tvg-id="discoveryasia" group-title="Lifestyle" tvg-logo="https://i.imgur.com/foLICwL.png", Discovery Asia HD
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
@@ -89,7 +89,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
 #EXTINF:-1 tvg-id="tv9" group-title="Entertainment" tvg-logo="https://i.imgur.com/Krh1F8d.png", TV9 HD
 https://cdn10jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd
-#EXTINF:-1,TV5 Monde
+#EXTINF:-1 tvg-id="tv5monde" group-title="Entertainment" tvg-logo="https://i.imgur.com/FRsRXRR.png", TV5Monde HD
 https://cdn10jtedge.indihometv.com/atm/DASH/tv5monde/manifest.mpd
 #EXTINF:-1 tvg-id="sctv" group-title="Lifestyle" tvg-logo="https://i.imgur.com/EMmOvnQ.png", SCTV HD
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
