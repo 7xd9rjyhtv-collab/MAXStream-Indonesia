@@ -75,9 +75,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 #EXTINF:-1 tvg-id="tlchd" group-title="Lifestyle" tvg-logo="https://iconape.com/wp-content/files/fq/104983/png/tlc-logo.png", TLC
 https://cdn08jtedge.indihometv.com/dassdvr/133/tlc/manifest.mpd
-#EXTINF:-1 tvg-id="thrill" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Thrill_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Thrill HD
+#EXTINF:-1 tvg-id="thrill" group-title="Movies" tvg-logo="https://i.imgur.com/Y282owj.png", Thrill HD
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
-#EXTINF:-1 tvg-id="warnertv" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Warner TV
+#EXTINF:-1 tvg-id="warnertv" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Warner TV HD
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 #EXTINF:-1,TVRI
 https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
@@ -87,11 +87,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 #EXTINF:-1,TVMU
 https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
-#EXTINF:-1,TV9
+#EXTINF:-1 tvg-id="tv9" group-title="Entertainment" tvg-logo="https://i.imgur.com/Krh1F8d.png", TV9 HD
 https://cdn10jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd
 #EXTINF:-1,TV5 Monde
 https://cdn10jtedge.indihometv.com/atm/DASH/tv5monde/manifest.mpd
-#EXTINF:-1,SCTV
+#EXTINF:-1 tvg-id="sctv" group-title="Lifestyle" tvg-logo="https://i.imgur.com/EMmOvnQ.png", SCTV HD
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTINF:-1 tvg-id="france24" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", France 24 HD
 https://cdn10jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
