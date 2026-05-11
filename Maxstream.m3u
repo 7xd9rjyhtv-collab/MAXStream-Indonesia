@@ -31,7 +31,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="abcaustraila" group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/ABC_HD_Australia_logo.png", ABC Austraila HD
 https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
-#EXTINF:-1 tvg-id="animalplanet" group-title="Lifestyle" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/3/3c/AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Animal Planet HD
+#EXTINF:-1 tvg-id="animalplanet" group-title="Lifestyle" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png", Animal Planet HD
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 #EXTINF:-1 tvg-id="cartoonnetwork" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Cartoon_Network_white_letter_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Cartoon Network
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
