@@ -97,3 +97,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
 #EXTINF:-1 tvg-id="dwtv" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", DW HD
 https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
+#EXTINF:-1 tvg-id="hits" group-title="Entertainment" tvg-logo="https://i.imgur.com/IM8Gy1l.png", HITS HD
+https://cdn10jtedge.indihometv.com/atm/DASH/hits/manifest.mpd
+#EXTINF:-1 tvg-id="hitsmovies" group-title="Movies" tvg-logo="https://i.imgur.com/kyE3vXf.png", HITS Movies HD
+https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
